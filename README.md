@@ -1,2 +1,1 @@
-# 00
-00
+on raspberrypi to control bcm
